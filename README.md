@@ -1,4 +1,4 @@
-<h1 align="center">RaguramNagaraj</h1>
+<h1 align="center">Raguram Nagaraj</h1>
 <h3 align="center">💻 MERN Stack Developer | ⚙️ Code with Purpose | 🔐 Cybersecurity Enthusiast</h3>
 
 - 🔭 I’m a **Student**
