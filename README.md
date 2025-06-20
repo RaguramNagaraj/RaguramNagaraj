@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate to **create user-centric web applications**
 
-- 📫 How to reach me **nraguram15@gmail.com**
+- 📫 Reach me => **nraguram15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
